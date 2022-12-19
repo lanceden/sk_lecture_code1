@@ -13,3 +13,6 @@ pip install -r require.txt
 ```
 docker run -itd --gpu all -- shm-size 8G --name skin - v /Users/sklmacbookprom2/Documents/char8:/home/host_ocr py36ocr:skins
 ```
+
+
+- https://blog.darkthread.net/blog/command-prompt-codepage/
